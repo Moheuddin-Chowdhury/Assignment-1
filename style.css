@@ -13,9 +13,9 @@ header {
 
 .header {
     text-align: right;
-    width: 525px;
+    width: 500px;
     height: 228px;
-    left: 845px;
+    left: 750px;
     position: relative;
     top: 300px;
 }
@@ -97,7 +97,7 @@ margin-bottom: 10px;
 
 .section-title {
     font-weight: 700;
-    font-size: 40px;
+    font-size: 35px;
     margin-bottom: 20px;
 }
 
@@ -123,10 +123,11 @@ margin-bottom: 10px;
 /* Plans Styles */
 .plan-title{
     font-weight: 700;
-font-size: 40px;
+font-size: 25px;
     color: #151414;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-align: center;
 }
 .plan-des{
     font-weight: 500;
